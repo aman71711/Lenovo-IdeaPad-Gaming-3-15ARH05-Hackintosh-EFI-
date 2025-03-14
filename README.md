@@ -1,4 +1,4 @@
-# macOS Sequoia on Lenovo IdeaPad Gaming 3 15ARH05
+# EFI for Lenovo IdeaPad Gaming 3 15ARH05
 
 ## 💻 Laptop Specifications
 
@@ -15,4 +15,16 @@
 | **WiFi & Bluetooth** | Realtek (Not working, unsupported) |
 | **Trackpad**      | Working (VoodooI2C) |
 | **Battery & Power Management** | Working (SMCBatteryManager) |
+
+🔧 What Works & What Doesn't
+✅ Everything except WiFi & Bluetooth (because Realtek chips aren’t supported)
+❌ No NVIDIA GPU acceleration (as expected)
+
+For WiFi and Bluetooth, I’m considering getting a USB adapter or replacing the internal card with a Broadcom or Intel one.
+
+Overall, macOS sequoia runs smoothly, and I’m happy with the performance! 🚀 If anyone else is attempting this on the same laptop, feel free to ask for help.
+
+Follow ChefKiss’s guide: ChefKiss Hackintosh Guide
+Follow Dortania’s OpenCore guide: Dortania Guide
+Use my EFI folder 
 
