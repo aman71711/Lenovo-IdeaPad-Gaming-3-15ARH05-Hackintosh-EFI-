@@ -17,6 +17,7 @@
 | **Battery & Power Management** | Working (SMCBatteryManager) |
 
 🔧 What Works & What Doesn't
+
 ✅ Everything except WiFi & Bluetooth (because Realtek chips aren’t supported)
 ❌ No NVIDIA GPU acceleration (as expected)
 
