@@ -73,11 +73,7 @@ Once macOS is installed and you're able to boot to the desktop, **replace the EF
 Ensure your BIOS is configured properly:
 
 - ✅ **Secure Boot** → Disabled  
-- ✅ **Fast Boot** → Disabled  
-- ✅ **VT-d** → Disabled  
-- ✅ **CSM** → Disabled  
-- ✅ **SATA Mode** → AHCI  
-- ✅ **UMA Frame Buffer Size** → 512MB (if available)  
+- ✅ **Fast Boot** → Disabled   
 - ✅ **USB Legacy Support** → Enabled  
 - ✅ **UEFI Boot Mode** → Enabled
 
