@@ -73,10 +73,7 @@ Once macOS is installed and you're able to boot to the desktop, **replace the EF
 Ensure your BIOS is configured properly:
 
 - ✅ **Secure Boot** → Disabled  
-- ✅ **Fast Boot** → Disabled   
-- ✅ **USB Legacy Support** → Enabled  
-- ✅ **UEFI Boot Mode** → Enabled
-
+- ✅ **Fast Boot** → Disabled     
 ---
 
 ## 📚 Guides to Follow
